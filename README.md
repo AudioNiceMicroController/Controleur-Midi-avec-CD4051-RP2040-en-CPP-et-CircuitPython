@@ -10,11 +10,8 @@
 ## Avec C++
 - [le zip](#avec-cpp)
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ## Branchement
-[Image.png](./img.jpg)
+![Image.png](./img.jpg)
 
 ### Installation de CircuitPython
  - Firmware : https://circuitpython.org/board/raspberry_pi_pico
@@ -30,7 +27,4 @@
 
 ## Avec CPP
 [Le zip](SUPER_MIDI_2_potars_et_CD4051.zip)
-```
-
-```
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

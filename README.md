@@ -8,8 +8,9 @@
 - [Programme pour 2 potentiomètre directement branchés et aussi 1 potentiomètre sur le CD4051 ](#exemple-1)
 
 ## Avec C++
-- [le code](#avec-c++)
-- 
+- [le zip](#avec-cpp)
+
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Branchement
@@ -27,7 +28,7 @@
 ### Exemple 1
 [Code](./rp2040-cd4051.txt)
 
-## Avec C++
+## Avec CPP
 [Le zip](SUPER_MIDI_2_potars_et_CD4051.zip)
 ```
 

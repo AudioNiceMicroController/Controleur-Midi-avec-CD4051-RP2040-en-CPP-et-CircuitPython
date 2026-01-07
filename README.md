@@ -27,10 +27,7 @@
 [Code](./rp2040-cd4051.txt)
 
 ## Avec C++
-[Télécharger ici](https://thonny.org). Lors de la programmation il faudra bien choisir circuitpython et non pas micropython.
-
-
-GP0 et GP1 sont utilisés car MIDI USB ≠ MIDI DIN (UART)
+[Le zip](SUPER_MIDI_2_potars_et_CD4051.zip)
 ```
 
 ```

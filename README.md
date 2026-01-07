@@ -1,14 +1,15 @@
 # CD4051 avec RP2040 (raspberry pico) en CircuitPython et C++
 
 
-## [Branchements du/des CD4051](#aaa)
+## [Branchements du/des CD4051](#branchement)
 
 ## Avec CircuitPython
 - [Installation](#installation-de-circuitpython)
-- [IDE](#thonny-ide)
+- [IDE](#installation-de-thonny-ide)
 - [Licence](#licence)
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-## aaa
+
+## Branchement
 ![image.png](./img.jpg)
 
 ### Installation de CircuitPython
@@ -16,7 +17,7 @@
  - circuitpython : https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases ou https://circuitpython.org/libraries
  - Reset si besoin d'une remise à 0 du RP2040 : https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#resetting-flash-memory
 
-### Thonny IDE
+### Installation de thonny-ide
 [Télécharger ici](https://thonny.org). Lors de la programmation il faudra bien choisir circuitpython et non pas micropython.
 
 

@@ -11,7 +11,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Branchement
-![imagezzzzz.png](./img.jpg)
+[Image.png](./img.jpg)
 
 ### Installation de CircuitPython
  - Firmware : https://circuitpython.org/board/raspberry_pi_pico
@@ -23,6 +23,9 @@
 
 
 ### Exemple 1
+[Image.png](./img.jpg)
+
+
 
 GP0 et GP1 sont utilisés car MIDI USB ≠ MIDI DIN (UART)
 ```

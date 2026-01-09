@@ -4,7 +4,7 @@
 [Branchements du/des CD4051](#branchement)
 
 ## Méthode 1 : CircuitPython
-- [Installation de CircuitPython](#installation-de-circuitpython)
+- [Installation de CircuitPython et les bibliothèques a utiliser](#installation-de-circuitpython)
 - [Installation de thonny-ide](#installation-de-thonny-ide)
 - [Exemple de programme pour 2 potentiomètre directement branchés et aussi 1 potentiomètre sur le CD4051 ](#exemple-de-programme)
 

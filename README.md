@@ -12,8 +12,15 @@
 
 # MCP3008 avec RP2040 
 ## Avec circuitpython
-voir 
+voir le dossier SUPER_MIDI_MCP3008_et_2_potars_circuipython
 ## Avec C/C++
+voir le dossier SUPER_MIDI_MCP3008_et_2_potars
+
+***
+
+### Branchement
+![Image.png](./img.jpg)
+
 ### Installation de CircuitPython
  - Firmware : https://circuitpython.org/board/raspberry_pi_pico. Mettre le pico en mode boot et glisser déposer le .uf2.
  - circuitpython : Télécharger la librairie depuis https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases ou https://circuitpython.org/libraries.
@@ -24,16 +31,6 @@ voir
 [Télécharger ici](https://thonny.org). Lors de la programmation il faudra bien choisir circuitpython et non pas micropython.
 ### Exemple de programme
 
-
-
-
-
-## Branchement
-![Image.png](./img.jpg)
 ***
-
-
-
-
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

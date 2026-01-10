@@ -8,7 +8,7 @@
 - [Installation de CircuitPython et les bibliothèques a utiliser](#installation-de-circuitpython)
 - [Installation de thonny-ide](#installation-de-thonny-ide)
 - Exemple de programme pour 2 potentiomètre directement branchés et aussi 1 potentiomètre sur le CD4051 : Voir SUPER_MIDI_2_potars_et_CD4051_circuitpython
-- 
+
 ## C++
 - Travaillez avec ![im](im2.png) dans vscode pour importer SUPER_MIDI_2_potars_et_CD4051
 
